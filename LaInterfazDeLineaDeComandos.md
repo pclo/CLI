@@ -3,7 +3,7 @@ title: "Sistemas operativos Linux y la Intrefaz de Línea de Comandos"
 subtitle: "Sesión práctica"
 author: "Patricia Carvajal-López"
 date: "24/10/2021"
-note: "Documento de soporte del tutorial "Sistemas operativos Linux y la Interfaz de Líneas de Comandos" (CLI - Command Line Interface)
+note: "Documento de soporte del tutorial "Sistemas operativos Linux y la Interfaz de Líneas de Comandos" (_CLI - Command Line Interface_)
 
 ---
 
