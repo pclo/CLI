@@ -1,5 +1,5 @@
 ---
-title: "Sistemas operativos Linux y la Intrfaz de Línea de Comandos"
+title: "Sistemas operativos Linux y la Intrefaz de Línea de Comandos"
 subtitle: "Sesión práctica"
 author: "Patricia Carvajal-López"
 date: "24/10/2021"
