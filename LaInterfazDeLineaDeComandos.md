@@ -197,7 +197,7 @@ rm -rf estoy_aqui
 <p>&nbsp;</p>
 
 
-## 4. Cambo de nomvre de archivos y directorios
+## 4. Cambo de nombre de archivos y directorios
 Podemos modificar el nombre de un archivo o directorio con ayuda del comando `mv`, que ahora utilizaremos para cambiar el nombre de un archivo y un directorio.
 
 Vaya el diretorio _renombrar_, que se encuentra ubicado dentro del directorio _practica-cli_, después despliegue su contenido
