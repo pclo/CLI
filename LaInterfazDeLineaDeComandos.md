@@ -480,7 +480,7 @@ head -20 Saccharomyces_cerevisiae.R64-1-1.104.gtf
 tail -n +6 Saccharomyces_cerevisiae.R64-1-1.104.gtf >solo-features.txt
 ```
 
-+¿Cuántas líneas de ‘_features_’ están contenidas en este archivo de anotación?  (puede utilizar el comando `wc`) 
++ ¿Cuántas líneas de ‘_features_’ están contenidas en este archivo de anotación?  (puede utilizar el comando `wc`) 
 ```
 tail -n +6 Saccharomyces_cerevisiae.R64-1-1.104.gtf|wc -l
 ```
