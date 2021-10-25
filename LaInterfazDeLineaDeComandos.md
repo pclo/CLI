@@ -8,7 +8,7 @@ note: "Documento de soporte del tutorial "Sistemas operativos Linux y la Interfa
 ---
 
 ___
-# Sistemas operativos Linux y la Intrfaz de Línea de Comandos (CLI - Command Line Interface)
+# Sistemas operativos Linux y la Interfaz de Línea de Comandos (CLI - Command Line Interface)
 ___
 Documento de soporte de la sección práctica del tutorial Sistemas operativos Linux y la Intrfaz de Línea de Comandos (CLI - Command Line Interface) [registro Zenodo de archivos para la práctia](https://doi.org/10.5281/zenodo.5550981)
 <p>&nbsp;</p>
