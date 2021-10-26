@@ -10,7 +10,7 @@ note: "Documento de soporte del tutorial "Sistemas operativos Linux y la Interfa
 ___
 # Sistemas operativos Linux y la Interfaz de Línea de Comandos (CLI - Command Line Interface)
 ___
-Documento de soporte de la sección práctica del tutorial Sistemas operativos Linux y la Intrfaz de Línea de Comandos (CLI - Command Line Interface) [registro Zenodo de archivos para la práctia](https://doi.org/10.5281/zenodo.5550981)
+Documento de soporte de la sección práctica del tutorial Sistemas operativos Linux y la Intrfaz de Línea de Comandos (CLI - Command Line Interface) [registro Zenodo de archivos para la práctia](https://doi.org/10.5281/zenodo.5594996)
 <p>&nbsp;</p>
 
 __Algunas notas antes de iniciar.__ 
@@ -40,7 +40,7 @@ cd practica-cli
 Para equipos Mac
 ```
 cd ~/
-curl http://zenodo.org/record/5594996/files/practica-cli.tar.gz -o practica-cli.tar.gz 
+curl -L -O http://zenodo.org/record/5594996/files/practica-cli.tar.gz
 tar -xvzf practica-cli.tar.gz
 ls
 clear
