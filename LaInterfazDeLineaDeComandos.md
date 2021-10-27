@@ -41,7 +41,7 @@ Para equipos Mac
 ```
 cd ~/
 curl -L -O http://zenodo.org/record/5594996/files/practica-cli.tar.gz
-tar -xvzf practica-cli.tar.gz
+tar -xvf practica-cli.tar.gz
 ls
 clear
 cd practica-cli
