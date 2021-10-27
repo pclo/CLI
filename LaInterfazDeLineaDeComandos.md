@@ -459,7 +459,7 @@ wget http://ftp.ensembl.org/pub/release-104/gtf/saccharomyces_cerevisiae/Sacchar
 
 **Para usuarios Mac 
 ```
-curl http://ftp.ensembl.org/pub/release-104/gtf/saccharomyces_cerevisiae/Saccharomyces_cerevisiae.R64-1-1.104.gtf.gz -o Saccharomyces_cerevisiae.R64-1-1.104.gtf.gz 
+curl -L -O http://ftp.ensembl.org/pub/release-104/gtf/saccharomyces_cerevisiae/Saccharomyces_cerevisiae.R64-1-1.104.gtf.gz 
 ```
 
 
